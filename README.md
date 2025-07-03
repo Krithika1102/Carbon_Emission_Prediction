@@ -17,6 +17,9 @@ Using the calculated CAGR values for each country-feature pair, the model simula
 
 **Technologies Used**
 **Programming Language:** Python
+
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Joblib
+
 **Machine Learning:** Random Forest Regression, Recursive Feature Elimination (RFECV), Hyperparameter tuning with RandomizedSearchCV
+
 **Visualization:** Regression plots, time-series forecasts using seaborn/matplotlib

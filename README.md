@@ -16,6 +16,7 @@ After hyperparameter tuning, the optimized model is validated on the test subset
 Using the calculated CAGR values for each country-feature pair, the model simulates feature growth for the next 20 years. These projected values are then used as input to the trained model to forecast CO₂ emissions per capita from the most recent year in the dataset up to the year 2048. Forecasts are generated for each selected country and plotted over time to visualize future trends. The visualization shows that developed nations like the USA and Russia may experience declining emissions due to more efficient technologies and policies, whereas developing countries are projected to see an upward trend, aligning with economic growth and energy demand.
 
 **Technologies Used**
+
 **Programming Language:** Python
 
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Joblib

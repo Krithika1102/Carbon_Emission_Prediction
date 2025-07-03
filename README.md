@@ -1,4 +1,5 @@
 **Project Overview**
+
 **Data Preparation**
 The project begins with comprehensive data preparation. The raw dataset is imported and initially examined for inconsistencies, missing values, and outliers. Specific outliers, such as records from the United Arab Emirates (ARE), are excluded to avoid skewed model performance. Only relevant numerical features are selected for modeling, including metrics such as cereal yield, foreign direct investment as a percentage of GDP, gross national income per capita, energy use per capita, urban agglomeration percentages, protected land areas, population growth rate, and urban population growth rate. These features are chosen based on their potential influence on carbon emissions. The dataset is then split into training and testing subsets, ensuring that the model can be evaluated on unseen data.
 
